@@ -1,0 +1,166 @@
+{
+  "AddTodo": {
+    "add_todo_section_description": "नया कार्य-कार्य बनाने के लिए नीचे दिया गया फॉर्म भरें",
+    "add_todo_section_title": "एक नया कार्य-कार्य बनाएँ",
+    "title_bar": "टोडो जोड़ें"
+  },
+  "Billing": {
+    "current_section_description": "अपनी भुगतान योजना को अपनी आवश्यकताओं के अनुरूप समायोजित करें",
+    "current_section_title": "वर्तमान योजना",
+    "manage_subscription_button": "सदस्यता प्रबंधित करें",
+    "title_bar": "बिलिंग",
+    "title_bar_description": "अपनी बिलिंग और सदस्यता प्रबंधित करें"
+  },
+  "BillingOptions": {
+    "current_plan": "वर्तमान योजना",
+    "upgrade_plan": "शुरू हो जाओ"
+  },
+  "CTA": {
+    "button_text": "GitHub पर स्टार लगाएं",
+    "description": "लोरेम इप्सम डोलर सिट अमेट, कंसेक्टेचर एडिपिसिंग एलीट।",
+    "title": "आप तैयार हैं?"
+  },
+  "CheckoutConfirmation": {
+    "message_state_button": "बिलिंग पर वापस जाएँ",
+    "message_state_description": "आपका भुगतान सफलतापूर्वक संसाधित हो गया है. \nआपकी खरीद के लिए आपको धन्यवाद!",
+    "message_state_title": "भुगतान सफल",
+    "title_bar": "भुगतान की पुष्टि"
+  },
+  "CurrentPlanDetails": {
+    "next_renew_date": "आपकी सदस्यता {दिनांक} को नवीनीकृत होती है"
+  },
+  "Dashboard": {
+    "meta_description": "आपके SaaS व्यवसाय के लिए एक मुफ़्त और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, Next.js, टाइपस्क्रिप्ट, Shadcn UI और टेलविंड CSS के साथ बनाया गया है।",
+    "meta_title": "विज्ञानएआई डैशबोर्ड"
+  },
+  "DashboardIndex": {
+    "message_state_button": "दस्तावेज़ीकरण पढ़ें",
+    "message_state_description": "निर्माणाधीन",
+    "message_state_title": "आएँ शुरू करें",
+    "title_bar": "डैशबोर्ड",
+    "title_bar_description": "आपके डैशबोर्ड में आपका स्वागत है"
+  },
+  "DashboardLayout": {
+    "billing": "बिलिंग",
+    "home": "घर",
+    "members": "सदस्यों",
+    "settings": "समायोजन",
+    "todos": "सब"
+  },
+  "DataTable": {
+    "no_results": "कोई परिणाम नहीं।"
+  },
+  "EditTodo": {
+    "edit_todo_section_description": "कार्यसूची संपादित करने के लिए नीचे दिया गया फॉर्म भरें",
+    "edit_todo_section_title": "कार्य को संशोधित करें",
+    "title_bar": "कार्य संपादित करें"
+  },
+  "FAQ": {
+    "answer": "लोरेम इप्सम डोलर सिट अमेट, कंसेक्टेचर एडिपिसिंग एलीट। \nएलिक्वम एलिक्वम एनिम डुई, आईडी कॉन्सक्वेट टर्पिस उल्लामकोर्पर एसी। \nमौरिस आईडी क्वाम डोलर. \nनल्लम यू एगस्टास टर्पिस. \nप्रोइन रिसस एलीट, सॉलिसिटुडिन इन एमआई ए, एक्यूमसन यूइस्मोड टर्पिस। \nयूइस्मोड मील सेड डायम ट्रिस्टिक हेंड्रेरिट में।",
+    "question": "लोरेम इप्सम डोलर सिट अमेट, कंसेक्टेचर एडिपिसिंग एलीट?"
+  },
+  "Features": {
+    "feature1_title": "अगला.जे.एस",
+    "feature2_title": "प्रतिक्रिया",
+    "feature3_title": "टेलविंड सीएसएस",
+    "feature4_title": "टाइपप्रति",
+    "feature5_title": "शैडकन यूआई",
+    "feature6_title": "ईएसलिंट",
+    "feature_description": "आपके SaaS व्यवसाय के लिए एक मुफ़्त और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, Next.js, टाइपस्क्रिप्ट, Shadcn UI और टेलविंड CSS के साथ बनाया गया है।",
+    "section_description": "आपके SaaS व्यवसाय के लिए एक मुफ़्त और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, Next.js, टाइपस्क्रिप्ट, Shadcn UI और टेलविंड CSS के साथ बनाया गया है।",
+    "section_subtitle": "विशेषताएँ",
+    "section_title": "साइंसएआई की पूरी क्षमता को अनलॉक करें"
+  },
+  "Footer": {
+    "blog": "ब्लॉग",
+    "community": "समुदाय",
+    "company": "कंपनी",
+    "designed_by": "<लेखक></लेखक> द्वारा डिज़ाइन किया गया",
+    "docs": "डॉक्स",
+    "privacy_policy": "गोपनीयता नीति",
+    "product": "उत्पाद",
+    "terms_of_service": "सेवा की शर्तें"
+  },
+  "Hero": {
+    "description": "डेटा को विज़ुअलाइज़ करें, अपने डेटा का दृश्यमान आश्चर्यजनक प्रतिनिधित्व तैयार करें।",
+    "follow_twitter": "ट्विटर पर @Ixartz को फ़ॉलो करें",
+    "primary_button": "शुरू हो जाओ",
+    "secondary_button": "GitHub पर स्टार लगाएं",
+    "title": "उन्नत <महत्वपूर्ण>एआई विश्लेषण</महत्वपूर्ण> के साथ अपने डेटा की क्षमता को अनलॉक करें।"
+  },
+  "Index": {
+    "meta_description": "आपके SaaS व्यवसाय के लिए एक मुफ़्त और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, Next.js, टाइपस्क्रिप्ट, Shadcn UI और टेलविंड CSS के साथ बनाया गया है।",
+    "meta_title": "विज्ञानएआई - आपके व्यवसाय को आसानी से बनाने और बढ़ाने के लिए एकदम सही विज्ञानएआई।"
+  },
+  "Navbar": {
+    "blog": "ब्लॉग",
+    "community": "समुदाय",
+    "company": "कंपनी",
+    "docs": "डॉक्स",
+    "product": "उत्पाद",
+    "sign_in": "दाखिल करना",
+    "sign_up": "साइन अप करें"
+  },
+  "OrganizationProfile": {
+    "title_bar": "संगठन का प्रबंधन",
+    "title_bar_description": "अपने संगठन का प्रबंधन करें"
+  },
+  "Pricing": {
+    "button_text": "शुरू हो जाओ",
+    "section_description": "आपके SaaS व्यवसाय के लिए एक मुफ़्त और ओपन-सोर्स लैंडिंग पेज टेम्पलेट, Next.js, टाइपस्क्रिप्ट, Shadcn UI और टेलविंड CSS के साथ बनाया गया है।",
+    "section_subtitle": "विशेषताएँ",
+    "section_title": "विज्ञानएआई की पूरी क्षमता को अनलॉक करें"
+  },
+  "PricingPlan": {
+    "enterprise_plan_description": "उद्योग जगत के नेताओं के लिए",
+    "enterprise_plan_name": "उद्यम",
+    "feature_email_support": "ई - मेल समर्थन",
+    "feature_storage": "{नंबर} जीबी स्टोरेज",
+    "feature_team_member": "{संख्या} टीम के सदस्य",
+    "feature_transfer": "{संख्या} टीबी स्थानांतरण",
+    "feature_website": "{संख्या} वेबसाइटें",
+    "free_plan_description": "व्यक्तियों के लिए",
+    "free_plan_name": "मुक्त",
+    "plan_interval_month": "महीना",
+    "plan_interval_year": "वर्ष",
+    "premium_plan_description": "छोटी टीमों के लिए",
+    "premium_plan_name": "अधिमूल्य"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "आपके पास यह क्रिया करने की अनुमति नहीं है"
+  },
+  "SignIn": {
+    "meta_description": "हमारी उपयोगकर्ता-अनुकूल लॉगिन प्रक्रिया के साथ अपने खाते में निर्बाध रूप से साइन इन करें।",
+    "meta_title": "दाखिल करना"
+  },
+  "SignUp": {
+    "meta_description": "हमारी सहज साइन-अप प्रक्रिया के माध्यम से सहजता से एक खाता बनाएं।",
+    "meta_title": "साइन अप करें"
+  },
+  "Sponsors": {
+    "title": "द्वारा प्रायोजित"
+  },
+  "TodoForm": {
+    "message_description": "अपने कार्य के लिए एक विस्तृत संदेश दर्ज करें.",
+    "message_title": "संदेश",
+    "submit_button": "जमा करना",
+    "title_description": "अपने कार्य के लिए एक वर्णनात्मक शीर्षक दर्ज करें।",
+    "title_label": "शीर्षक"
+  },
+  "TodoTableColumns": {
+    "delete": "मिटाना",
+    "edit": "संपादन करना",
+    "message_header": "संदेश",
+    "open_menu": "मेनू खोलें",
+    "title_header": "शीर्षक"
+  },
+  "Todos": {
+    "add_todo_button": "नया कार्य",
+    "title_bar": "करने के लिए सूची",
+    "title_bar_description": "अपनी कार्य सूची देखें और प्रबंधित करें"
+  },
+  "UserProfile": {
+    "title_bar": "उपयोगकर्ता रूपरेखा",
+    "title_bar_description": "अपनी उपयोगकर्ता प्रोफ़ाइल देखें और प्रबंधित करें"
+  }
+}

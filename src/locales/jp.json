@@ -1,0 +1,166 @@
+{
+  "AddTodo": {
+    "add_todo_section_description": "Fill in the form below to create a new todo",
+    "add_todo_section_title": "Create a new todo",
+    "title_bar": "Add Todo"
+  },
+  "Billing": {
+    "current_section_description": "Adjust your payment plan to best suit your requirements",
+    "current_section_title": "Current Plan",
+    "manage_subscription_button": "Manage Subscription",
+    "title_bar": "Billing",
+    "title_bar_description": "Manage your billing and subscription"
+  },
+  "BillingOptions": {
+    "current_plan": "Current Plan",
+    "upgrade_plan": "Get Started"
+  },
+  "CTA": {
+    "button_text": "Star on GitHub",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "title": "You are ready?"
+  },
+  "CheckoutConfirmation": {
+    "message_state_button": "Go back to Billing",
+    "message_state_description": "Your payment has been successfully processed. Thank you for your purchase!",
+    "message_state_title": "Payment successful",
+    "title_bar": "Payment Confirmation"
+  },
+  "CurrentPlanDetails": {
+    "next_renew_date": "Your subscription renews on {date}"
+  },
+  "Dashboard": {
+    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "meta_title": "VigyanAI Dashboard"
+  },
+  "DashboardIndex": {
+    "message_state_button": "Read the documentation",
+    "message_state_description": "Under Construction",
+    "message_state_title": "Let's get started",
+    "title_bar": "Dashboard",
+    "title_bar_description": "Welcome to your dashboard"
+  },
+  "DashboardLayout": {
+    "billing": "Billing",
+    "home": "Home",
+    "members": "Members",
+    "settings": "Settings",
+    "todos": "Todos"
+  },
+  "DataTable": {
+    "no_results": "No results."
+  },
+  "EditTodo": {
+    "edit_todo_section_description": "Fill in the form below to edit the todo",
+    "edit_todo_section_title": "Modify todo",
+    "title_bar": "Edit todo"
+  },
+  "FAQ": {
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit.",
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?"
+  },
+  "Features": {
+    "feature1_title": "Next.js",
+    "feature2_title": "React",
+    "feature3_title": "Tailwind CSS",
+    "feature4_title": "TypeScript",
+    "feature5_title": "Shadcn UI",
+    "feature6_title": "ESLint",
+    "feature_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "section_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "section_subtitle": "Features",
+    "section_title": "Unlock the Full Potential of the VigyanAI"
+  },
+  "Footer": {
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Company",
+    "designed_by": "Designed by <author></author>",
+    "docs": "Docs",
+    "privacy_policy": "Privacy Policy",
+    "product": "Product",
+    "terms_of_service": "Terms Of Service"
+  },
+  "Hero": {
+    "description": "Visualize data, craft visually stunning representations of your data.",
+    "follow_twitter": "Follow @Ixartz on Twitter",
+    "primary_button": "Get Started",
+    "secondary_button": "Star on GitHub",
+    "title": "Unlock the potential of your data with advanced <important>AI analysis</important>."
+  },
+  "Index": {
+    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "meta_title": "VigyanAI - The perfect VigyanAI to build and scale your business with ease."
+  },
+  "Navbar": {
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Company",
+    "docs": "Docs",
+    "product": "Product",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up"
+  },
+  "OrganizationProfile": {
+    "title_bar": "Organization Management",
+    "title_bar_description": "Manage your organization"
+  },
+  "Pricing": {
+    "button_text": "Get Started",
+    "section_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "section_subtitle": "Features",
+    "section_title": "Unlock the Full Potential of the VigyanAI"
+  },
+  "PricingPlan": {
+    "enterprise_plan_description": "For industry leaders",
+    "enterprise_plan_name": "Enterprise",
+    "feature_email_support": "Email Support",
+    "feature_storage": "{number} GB Storage",
+    "feature_team_member": "{number} Team Members",
+    "feature_transfer": "{number} TB Transfer",
+    "feature_website": "{number} Websites",
+    "free_plan_description": "For individuals",
+    "free_plan_name": "Free",
+    "plan_interval_month": "month",
+    "plan_interval_year": "year",
+    "premium_plan_description": "For small teams",
+    "premium_plan_name": "Premium"
+  },
+  "ProtectFallback": {
+    "not_enough_permission": "You do not have the permissions to perform this action"
+  },
+  "SignIn": {
+    "meta_description": "Seamlessly sign in to your account with our user-friendly login process.",
+    "meta_title": "Sign in"
+  },
+  "SignUp": {
+    "meta_description": "Effortlessly create an account through our intuitive sign-up process.",
+    "meta_title": "Sign up"
+  },
+  "Sponsors": {
+    "title": "Sponsored by"
+  },
+  "TodoForm": {
+    "message_description": "Enter a detailed message for your todo.",
+    "message_title": "Message",
+    "submit_button": "Submit",
+    "title_description": "Enter a descriptive title for your todo.",
+    "title_label": "Title"
+  },
+  "TodoTableColumns": {
+    "delete": "Delete",
+    "edit": "Edit",
+    "message_header": "Message",
+    "open_menu": "Open menu",
+    "title_header": "Title"
+  },
+  "Todos": {
+    "add_todo_button": "New todo",
+    "title_bar": "Todo List",
+    "title_bar_description": "View and manage your todo list"
+  },
+  "UserProfile": {
+    "title_bar": "User Profile",
+    "title_bar_description": "View and manage your user profile"
+  }
+}
