@@ -1,14 +1,25 @@
-import { Protect } from '@clerk/nextjs';
+import { ArrowRightIcon } from '@radix-ui/react-icons';
 import { useTranslations } from 'next-intl';
 
-import { buttonVariants } from '@/components/ui/button';
-import { ProtectFallback } from '@/features/auth/ProtectFallback';
-import { MessageState } from '@/features/dashboard/MessageState';
 import { TitleBar } from '@/features/dashboard/TitleBar';
-import { ORG_ROLE } from '@/types/Auth';
 
 const DashboardIndexPage = () => {
   const t = useTranslations('DashboardIndex');
+
+  const insuranceData = [
+    {
+      title: 'Health Insurance',
+      description: 'Get coverage for your health needs.',
+    },
+    {
+      title: 'Car Insurance',
+      description: 'Insure your car against damages.',
+    },
+    {
+      title: 'Theft Insurance',
+      description: 'Get coverage in case of theft.',
+    },
+  ];
 
   return (
     <>
@@ -17,54 +28,26 @@ const DashboardIndexPage = () => {
         description={t('title_bar_description')}
       />
 
-      <MessageState
-        icon={
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="none"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          >
-            <path d="M0 0h24v24H0z" stroke="none" />
-            <path d="M12 3l8 4.5v9L12 21l-8-4.5v-9L12 3M12 12l8-4.5M12 12v9M12 12L4 7.5" />
-          </svg>
-        }
-        title={t('message_state_title')}
-        description={t.rich('message_state_description', {
-          code: (chunks) => (
-            <code className="bg-secondary text-secondary-foreground">
-              {chunks}
-            </code>
-          ),
-        })}
-        button={
-          <Protect
-            role={ORG_ROLE.ADMIN}
-            fallback={
-              <ProtectFallback
-                trigger={
-                  <div
-                    className={buttonVariants({
-                      size: 'lg',
-                      variant: 'secondary',
-                    })}
-                  >
-                    {t('message_state_button')}
-                  </div>
-                }
-              />
-            }
-          >
-            <a
-              className={buttonVariants({ size: 'lg' })}
-              href="https://github.com/ixartz/SaaS-Boilerplate"
+      <div className="grid grid-cols-2 gap-x-4 gap-y-8">
+        {insuranceData.map((data) => {
+          return (
+            <div
+              className="flex w-full items-center rounded-lg bg-slate-200 p-4 px-6"
+              key={data.title}
             >
-              {t('message_state_button')}
-            </a>
-          </Protect>
-        }
-      />
+              <div className="grow">
+                <h2 className="text-lg font-semibold">{data.title}</h2>
+                {data.description}
+              </div>
+              <ArrowRightIcon
+                color="#111111"
+                className="size-8 cursor-pointer hover:opacity-60"
+                fontSize={10}
+              />
+            </div>
+          );
+        })}
+      </div>
     </>
   );
 };

@@ -1,7 +1,7 @@
 {
    "Index": {
-      "meta_title": "VigyanAI - The perfect VigyanAI to build and scale your business with ease.",
-      "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+      "meta_title": "SmartInsurance - Insurance platform based on Web3 and Blockchain.",
+      "meta_description": "Automatic claims processing and payouts based on smart contract conditions."
    },
    "Navbar": {
       "sign_in": "Sign In",
@@ -16,8 +16,8 @@
       "follow_twitter": "Follow @Ixartz on Twitter",
       "title": "Simplified insurance platform based on <important>Web3 and Blockchain</important>.",
       "description": "Automatic claims processing and payouts based on smart contract conditions.",
-      "primary_button": "Get Started",
-      "secondary_button": "Star on GitHub",
+      "primary_button": "Connect Wallet",
+      "secondary_button": "Star On GitHub",
       "banner_text": "Build by Smart Samadhan Team for Code4Cause2.0"
    },
    "Sponsors": {
@@ -25,15 +25,14 @@
    },
    "Features": {
       "section_subtitle": "Features",
-      "section_title": "Unlock the Full Potential of the VigyanAI",
-      "section_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
-      "feature1_title": "Next.js",
-      "feature2_title": "React",
-      "feature3_title": "Tailwind CSS",
-      "feature4_title": "TypeScript",
-      "feature5_title": "Shadcn UI",
-      "feature6_title": "ESLint",
-      "feature_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS."
+      "section_title": "Unlock the Full Potential of the SmartInsurance",
+      "section_description": "A decentralised insurance platform built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS on the Aptos Blockchain.",
+      "feature1_title": "Health Insurance",
+      "feature2_title": "Theft Insurance",
+      "feature3_title": "Car Insurance",
+      "feature_description2": "We offer theft insurance that cover losses from theft or burglary with smart contracts that verify claims using secure data sources, ensuring quick and reliable payouts.",
+      "feature_description3": "Offers coverage for vehicle-related risks like accidents and theft, using smart contracts to streamline claims with real-time data, ensuring fast and transparent resolutions.",
+      "feature_description1": "Provides decentralized health coverage with automated claims processing on the Aptos Blockchain, ensuring fast payouts and reduced administrative costs without intermediaries."
    },
    "Pricing": {
       "section_subtitle": "Features",
@@ -57,13 +56,19 @@
       "plan_interval_year": "year"
    },
    "FAQ": {
-      "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
-      "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+      "question1": "How are premiums paid and claims processed?",
+      "answer1": "Premiums are paid directly through the platform using cryptocurrency or fiat payments. Once a claim is triggered and validated, the payout is automatically released by the smart contract to the insured party’s wallet without the need for manual approval.",
+      "question2": "What kind of insurance policies can be offered on this platform?",
+      "answer2": "The platform can support various insurance types, including health, travel, property, vehicle, and parametric insurance, among others. The flexibility of smart contracts allows for customized policies tailored to specific needs.",
+      "question3": "How secure is the data on this platform?",
+      "answer3": "All data and transactions are stored on the blockchain, ensuring immutability and protection against unauthorized changes. Additionally, cryptographic techniques are used to safeguard sensitive information.",
+      "question4": "How do you ensure fairness and accuracy in claims?",
+      "answer4": "Smart contracts are programmed with transparent and predefined rules that automatically verify the validity of claims based on objective data sources (e.g., weather APIs for natural disaster insurance). This minimizes disputes and ensures that only legitimate claims are paid."
    },
    "CTA": {
-      "title": "You are ready?",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "button_text": "Star on GitHub"
+      "title": "Secure your life?",
+      "description": "Get started with our ",
+      "button_text": "Buy an insurance."
    },
    "Footer": {
       "product": "Product",

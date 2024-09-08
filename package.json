@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "@aptos-labs/ts-sdk": "^1.27.1",
+    "@aptos-labs/wallet-adapter-react": "^3.6.2",
     "@clerk/localizations": "^1.26.16",
     "@clerk/nextjs": "^4.29.9",
     "@hookform/resolvers": "^3.3.4",

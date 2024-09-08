@@ -55,12 +55,6 @@ export default function DashboardLayout(props: {
                 </li>
 
                 <li>
-                  <ActiveLink href="/dashboard/organization-profile">
-                    {t('members')}
-                  </ActiveLink>
-                </li>
-
-                <li>
                   <ActiveLink href="/dashboard/organization-profile/organization-settings">
                     {t('settings')}
                   </ActiveLink>
