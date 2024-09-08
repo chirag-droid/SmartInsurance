@@ -34,7 +34,7 @@ const Hero = () => {
 
             <a
               className={buttonVariants({ variant: 'outline', size: 'lg' })}
-              href="https://github.com/ixartz/SaaS-Boilerplate"
+              href="https://github.com/chirag-droid/SmartInsurance"
             >
               <GitHubLogoIcon className="mr-2 size-5" />
               {t('secondary_button')}
