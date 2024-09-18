@@ -1,7 +1,7 @@
 {
    "Index": {
-      "meta_title": "SmartInsurance - Insurance platform based on Web3 and Blockchain.",
-      "meta_description": "Automatic claims processing and payouts based on smart contract conditions."
+      "meta_title": "PiCare - Health AI for Enhanced patient safety.",
+      "meta_description": "Timely and accurate medical diagnosis with AI-powered diagnostic tools be designed to assist healthcare professionals in detecting diseases"
    },
    "Navbar": {
       "sign_in": "Sign In",
@@ -14,11 +14,11 @@
    },
    "Hero": {
       "follow_twitter": "Follow @Ixartz on Twitter",
-      "title": "Simplified insurance platform based on <important>Web3 and Blockchain</important>.",
-      "description": "Automatic claims processing and payouts based on smart contract conditions.",
-      "primary_button": "Connect Wallet",
-      "secondary_button": "View Code",
-      "banner_text": "Build by Smart Samadhan Team for Code4Cause2.0"
+      "title": "Health AI for <important>Enhanced patient safety</important>.",
+      "description": "Keep your loved ones assured of your health and well-being with detailed health insights, no matter the distance. Hence, connect with AI",
+      "primary_button": "Get Started",
+      "secondary_button": "Order Now",
+      "banner_text": "Because care never terminates."
    },
    "Sponsors": {
       "title": "Sponsored by"
