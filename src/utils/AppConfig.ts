@@ -6,7 +6,7 @@ const localePrefix: LocalePrefix = 'as-needed';
 
 // FIXME: Update this configuration file based on your project information
 export const AppConfig = {
-  name: 'SmartInsurance',
+  name: 'PiCare',
   locales: [
     {
       id: 'en',
